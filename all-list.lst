@@ -48,13 +48,6 @@ aistudio.google.com
 bard.google.com
 notebooklm.google.com
 
-// Other
-ai-chat.bsg.brave.com
-recraft.ai
-codeium.com
-lightning.ai
-character.ai
-
 // Anime
 
 // AniList
@@ -177,6 +170,10 @@ steamdb.info
 anivisual.net
 itch.io
 
+// Other
+app-measurement.com
+tribez.game-insight.com
+
 // NSWF
 xvideos.com
 hqporner.com
@@ -276,95 +273,14 @@ meta.com
 threads.net
 fb.com
 
-// LK
-linkedin.com
-licdn.com
-
-// Notion
-notion.so
-notion.com
-notion.new
-notion.site
-notion-static.com
-
-// JetBrains
-jetbrains.com
-myjetbrains.com
-jetbrains.space
-api.jetbrains.ai
-youtrack.cbf-team.ru
-
 // Microsot
 designer.microsoft.com
 xsts.auth.xboxlive.com
-
-// VMWare
-vmware.com
-download3.omnissa.com
-omnissa.com
-
-// Canva
-canva.dev
-canva.com
 
 // Intel
 intel.com
 intel.de
 intel.nl
-
-// Zoe
-zoeapp.co
-login.zoe-app.com
-help.zoe-app.com
-blog.zoe-app.com
-media.zoe-app.com
-api.zoe-app.com
-dashboard.zoe-app.com
-web.zoe-app.com
-cdn.zoe-app.com
-static.zoe-app.com
-notifications.zoe-app.com
-admin.zoe-app.com
-events.zoe-app.com
-terms.zoe-app.com
-privacy.zoe-app.com
-
-// Her
-weareher.com
-her.app
-www.herapp.com
-m.herapp.com
-login.herapp.com
-help.herapp.com
-blog.herapp.com
-jobs.herapp.com
-press.herapp.com
-api.herapp.com
-api-staging.herapp.com
-her-login.com
-herdatingapp.com
-her-official.com
-her-app.com
-her.net
-her.mobi
-
-// Hornet
-login.hornet.com
-app.hornet.com
-web.hornet.com
-api.hornet.com
-support.hornet.com
-help.hornet.com
-blog.hornet.com
-press.hornet.com
-jobs.hornet.com
-media.hornet.com
-cdn.hornet.com
-static.hornet.com
-notifications.hornet.com
-dashboard.hornet.com
-terms.hornet.com
-privacy.hornet.com
 
 // DeepL
 deepl.com
@@ -479,12 +395,64 @@ usercontent.dev
 tgram.org
 torg.org
 
+// 4PDA
+4pda.to
+4pda.ru
+4pda.ws
+4pda.fun
+
+forums.4pda.ru
+4pda-forum.ru
+
+img.4pda.to
+s.4pda.to
+
 // Other
 f95-zone.to
 proton.me
 spotify.com
 tidal.com
 elgato.com
+blip.net
+
+// Smart Home
+
+// Xiaomi
+xiaomi.com
+mi.com
+xiaomi.net
+
+api.io.mi.com
+de.api.io.mi.com
+us.api.io.mi.com
+ru.api.io.mi.com
+sg.api.io.mi.com
+api2.io.mi.com
+ott.io.mi.com
+
+home.mi.com
+mihome.io
+app.market.xiaomi.com
+
+account.xiaomi.com
+account.xiaomi.net
+id.mi.com
+oauth.account.xiaomi.com
+
+msg.xiaomi.net
+
+mistat.xiaomi.com
+data.mistat.xiaomi.com
+tracking.miui.com
+sdkconfig.ad.xiaomi.com
+
+cdn.cnbj1.fds.api.mi-img.com
+cdn.awsde0-fusion.fds.api.mi-img.com
+cdn.awsusor0.fds.api.mi-img.com
+api.fds.api.xiaomi.com
+
+mi-img.com
+miui.com
 
 // Movie
 
@@ -560,10 +528,6 @@ tmdb.com
 image.tmdb.org
 api.themoviedb.org
 tmdb-image-prod.b-cdn.net
-
-// Disney+
-disneyplus.com
-hbomax.com
 
 // Other
 cub.red
