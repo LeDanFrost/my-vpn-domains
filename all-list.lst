@@ -245,6 +245,18 @@ webofcomics.top
 
 // Service
 
+// Apple / iCloud
+appleid.apple.com
+account.apple.com
+idmsa.apple.com
+auth.apple.com
+appleid.cdn-apple.com
+icloud.com
+icloud-content.com
+icloud.apple.com
+icloud.cdn-apple.com
+www.apple.com
+
 // Google
 googleplay.com
 play-fe.googleapis.com
