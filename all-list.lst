@@ -132,8 +132,6 @@ api.lp1.pctl.srv.nintendo.net
 xboxlive.com
 xbox.com
 account.xbox.com
-login.live.com
-login.microsoftonline.com
 store.xbox.com
 assets.xboxlive.com
 profiles.xboxlive.com
@@ -143,11 +141,6 @@ gameclipsmetadata.xboxlive.com
 notify.xboxlive.com
 userpresence.xboxlive.com
 xsts.auth.xboxlive.com
-microsoft.com
-microsoftonline.com
-live.com
-windows.com
-msftncsi.com
 vortex.data.microsoft.com
 settings-win.data.microsoft.com
 
