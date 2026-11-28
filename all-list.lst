@@ -519,7 +519,6 @@ derp24-all.tailscale.com
 derp25-all.tailscale.com
 derp26-all.tailscale.com
 derp27-all.tailscale.com
-derp28-all.tailscale.com
 
 // Spotify
 spotify.com
@@ -638,8 +637,7 @@ tracking.miui.com
 sdkconfig.ad.xiaomi.com
 
 cdn.cnbj1.fds.api.mi-img.com
-cdn.awsde0-fusion.fds.api.mi-img.com
-cdn.awsusor0.fds.api.mi-img.com
+cdn.awsde0-fusion.api.mi-img.com
 api.fds.api.xiaomi.com
 
 mi-img.com
@@ -717,7 +715,6 @@ themoviedb.org
 tmdb.org
 tmdb.com
 image.tmdb.org
-api.themoviedb.org
 tmdb-image-prod.b-cdn.net
 
 // Other
