@@ -255,6 +255,10 @@ webofcomics.top
 
 // Service
 
+// Duolingo
+duolingo.com
+duolingo.cn
+
 // Apple / iCloud
 appleid.apple.com
 account.apple.com
@@ -637,7 +641,8 @@ tracking.miui.com
 sdkconfig.ad.xiaomi.com
 
 cdn.cnbj1.fds.api.mi-img.com
-cdn.awsde0-fusion.api.mi-img.com
+cdn.awsde0-fusion.fds.api.mi-img.com
+cdn.awsusor0-fusion.fds.api.mi-img.com
 api.fds.api.xiaomi.com
 
 mi-img.com
